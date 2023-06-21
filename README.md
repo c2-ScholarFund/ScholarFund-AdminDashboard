@@ -30,11 +30,14 @@ The user interface design for ScholarFund was created using Figma. The design fo
 
 The team members involved in the development of ScholarFund are:
 
-- John Doe (Project Manager)
-- Jane Smith (Frontend Developer)
-- Alex Johnson (Backend Developer)
-- Sarah Thompson (UI/UX Designer)
-- Mark Davis (Database Administrator)
+- Mufed Al-Nadi(Project scurm mater)
+- Ahmad Badran (Product Owner (PO) )
+- Amro alkhazaleh (QA)
+- Bushra Aburahma (Team member)
+- Issa Zeidan (Team member)
+- Mays Ghaith (Team member)
+- Mahmoud Hassan (Team member)
+
 
 ## :hammer_and_wrench: Project Setup
 
